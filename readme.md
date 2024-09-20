@@ -2,7 +2,7 @@
 Made by Team 7
 * Narendra Singh Rawat (Leader)
 * Anuj
-* Anmol Sati
+* Anmol
 * Mayank Raj
 
 ## Requirements
