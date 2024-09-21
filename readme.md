@@ -9,7 +9,7 @@ Made by Team 7
 * python>=3.12
 * pygame>=2.6.0
 * pillow>=10.4.0
-* opecv-python>=4.19.0.84
+* opencv-python>=4.19.0.84
 
 ---  
 Thank You! ❤️
